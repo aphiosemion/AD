@@ -1,0 +1,38 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# IDE та налаштування редакторів
+.idea/
+.vscode/
+*.swp
+*.swo
+.history/
+
+# Python: кеш та збірка
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Віртуальні середовища (venv)
+venv/
+env/
+.env
+.venv/
+
+# Теки збірки та дистрибутиви
+bin/
+build/
+dist/
+*.egg-info/
+
+*.csv
+*.txt
+*.json
+*.log
+*.database
+*.sqlite
+
+!requirements.txt

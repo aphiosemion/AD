@@ -1,0 +1,22 @@
+# Складання (CMake та бінарні файли)
+build/
+bin/
+*.o
+*.a
+*.so
+
+# Тимчасові файли та дані
+*.csv
+vhi_data/
+*.log
+*.mp4
+
+# Налаштування IDE
+.vscode/
+.idea/
+*.swp
+*.user
+
+# Системні файли
+.DS_Store
+Thumbs.db

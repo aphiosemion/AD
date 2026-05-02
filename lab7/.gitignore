@@ -1,0 +1,20 @@
+# Тимчасові файли компіляції (найбільше сміття)
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Бінарні файли (результати збірки)
+lab_7
+lab_6
+
+# Локальні налаштування редакторів
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Тимчасові системні файли
+.DS_Store
+Thumbs.db
